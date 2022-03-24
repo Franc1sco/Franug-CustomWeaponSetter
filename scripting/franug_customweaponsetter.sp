@@ -1,4 +1,4 @@
-/*  SM FPVMI - Custom Weapons Setter
+/*  SM FPVMI - Custom Weapon Setter
  *
  *  Copyright (C) 2022 Francisco 'Franc1sco' García
  * 
@@ -27,7 +27,7 @@ Handle kv;
 
 public Plugin myinfo =
 {
-	name = "SM FPVMI - Custom Weapons Setter",
+	name = "SM FPVMI - Custom Weapon Setter",
 	author = "Franc1sco franug",
 	description = "",
 	version = DATA,
