@@ -4,6 +4,7 @@
 	{
 		"view" "models/weaponf/v_animeawp.mdl"
 		"world" "models/weaponf/w_animeawp.mdl"
+		"drop" "models/weaponf/w_animeawp.mdl"
 	}
 	"weapon_elite"
 	{
