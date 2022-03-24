@@ -1,4 +1,4 @@
-# Franug-CustomWeaponsSetter
+# Franug-CustomWeaponSetter
 
 Require: https://forums.alliedmods.net/showthread.php?p=2376497
 
