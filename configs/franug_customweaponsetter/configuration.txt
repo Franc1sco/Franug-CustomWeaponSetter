@@ -1,0 +1,12 @@
+"CustomModels"
+{
+	"weapon_awp"
+	{
+		"view" "models/weaponf/v_animeawp.mdl"
+		"world" "models/weaponf/w_animeawp.mdl"
+	}
+	"weapon_elite"
+	{
+		"view" "models/weaponf/v_pist_dualinfinity.mdl"
+	}
+}

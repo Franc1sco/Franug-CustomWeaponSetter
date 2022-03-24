@@ -1,0 +1,35 @@
+// AWP Anime
+
+materials/models/weaponf/v_models/animeawp/awp.vmt
+materials/models/weaponf/v_models/animeawp/awp.vtf
+materials/models/weaponf/v_models/animeawp/awp_exponent.vtf
+
+materials/models/weaponf/w_models/w_animeawp/awp.vmt
+materials/models/weaponf/w_models/w_animeawp/awp.vtf
+materials/models/weaponf/w_models/w_animeawp/awp_exponent.vtf
+
+models/weaponf/v_animeawp.dx90.vtx
+models/weaponf/v_animeawp.mdl
+models/weaponf/v_animeawp.vvd
+
+models/weaponf/w_animeawp.dx90.vtx
+models/weaponf/w_animeawp.mdl
+models/weaponf/w_animeawp.vvd
+
+
+//Dual Infinity
+materials/models/weaponf/w_models/w_pist_elite/01.vmt
+materials/models/weaponf/w_models/w_pist_elite/01.vtf
+materials/models/weaponf/w_models/w_pist_elite/02.vmt
+materials/models/weaponf/w_models/w_pist_elite/02.vtf
+materials/models/weaponf/w_models/w_pist_elite/exponent
+materials/models/weaponf/w_models/w_pist_elite/hong02.vmt
+materials/models/weaponf/w_models/w_pist_elite/hong02.vtf
+materials/models/weaponf/w_models/w_pist_elite/jin01.vmt
+materials/models/weaponf/w_models/w_pist_elite/jin01.vtf
+materials/models/weaponf/w_models/w_pist_elite/m9a1.vmt
+materials/models/weaponf/w_models/w_pist_elite/m9a1.vtf
+materials/models/weaponf/w_models/w_pist_elite/m9a1_exponent.vtf
+models/weaponf/v_pist_dualinfinity.dx90.vtx
+models/weaponf/v_pist_dualinfinity.vvd
+models/weaponf/v_pist_dualinfinity.mdl
